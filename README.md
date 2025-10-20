@@ -1,4 +1,4 @@
-# 🍳 Cooknook — System Architecture & Overview
+# Cooknook — System Architecture & Overview
 
 Cooknook is a **production-grade cooking recipe platform** designed to make creating, sharing, and organizing recipes easier and more collaborative.  
 This repository showcases the **system design**, **infrastructure**, and **core architectural principles** behind the Cooknook app.
