@@ -19,7 +19,7 @@ The platform prioritizes **security**, **scalability**, and **real-time collabor
 
 ## System Architecture
 
-![Cooknook System Diagram](./docs/system-design-diagram.png)
+[System Diagram](./docs/system-design-diagram.png)
 
 ### Key Components
 
