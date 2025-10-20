@@ -5,7 +5,7 @@ This repository showcases the **system design**, **infrastructure**, and **core 
 
 ---
 
-## 🧩 Overview
+## Overview
 
 Cooknook allows users to:
 - Create and save custom recipes.
@@ -17,7 +17,7 @@ The platform prioritizes **security**, **scalability**, and **real-time collabor
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ![Cooknook System Diagram](./docs/system-design-diagram.png)
 
@@ -73,11 +73,6 @@ The platform prioritizes **security**, **scalability**, and **real-time collabor
 | Monitoring | AWS CloudWatch, Google Cloud Monitoring |
 | Payments | Stripe |
 | AI Integration | OpenAI API |
-
----
-
-## 📄 License
-This project is shared for **educational and portfolio purposes** under the [MIT License](./LICENSE).
 
 ---
 
