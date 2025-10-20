@@ -66,7 +66,7 @@ The platform prioritizes **security**, **scalability**, and **real-time collabor
 | Category | Technology |
 |-----------|-------------|
 | Frontend | Next.js, React, TypeScript |
-| Backend | Node.js, Firebase Functions |
+| Backend | Node.js, Firebase Cloud Functions |
 | Database | Firestore, Firebase Storage |
 | Hosting | AWS Amplify, Route 53 |
 | CI/CD | GitHub Actions |
@@ -76,9 +76,9 @@ The platform prioritizes **security**, **scalability**, and **real-time collabor
 
 ---
 
-## 👨‍🍳 Author
+## Author
 **Jacob Clarke**  
 Founder & Developer of Cooknook  
-[LinkedIn](https://linkedin.com/in/jacobclarke) • [Website](https://yourportfolio.com)
+[LinkedIn](https://www.linkedin.com/in/jacob-clarke-developer/)
 
 ---
