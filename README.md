@@ -30,6 +30,8 @@ Organize recipes into well-organized Cookbooks!
 <div align='center'>
   <img src='/ExampleImages/CookbookExample.gif'></img>
 </div>
+Get Ingredint Substitution based user inputted needs or ingredient availability!
+<img src='/ExampleImages/IngredientSubstitutionExample.png'></img>
 
 
 ## System Architecture
