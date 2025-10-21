@@ -17,12 +17,20 @@ Cooknook allows users to:
 - Create and save personalized (private or public) recipes.
 - View version history including changelogs for recipes.
 - Build custom cookbooks using your recipes and recipes from other users.
-- “Fork” a recipe, creating a personal copy that you can edit, tweak, or add your own twist to — without changing the original.
+- Collaborate with others by “Forking” their recipe — create your own editable copy to tweak, experiment, or add a personal twist, while keeping the original intact and giving credit to its creator.
 - Ask AI Chef (OpenAI) for ingredient substitutions to easily adapt any recipe to your preferences, dietary needs, or what you already have in your kitchen.
 - Subscribe via Stripe to get access to premium features such as: AI Chef and Cookbooks
 
 ---
+Create Beautiful Recipes with ease!
 <img src='/ExampleImages/RecipeExample.png'></img>
+Version history timeline to view all previous iterations of a recipe!
+<img src='/ExampleImages/VersionHistoryExample.png'></img>
+Organize recipes into well-organized Cookbooks!
+<div align='center'>
+  <img src='/ExampleImages/CookbookExample.gif'></img>
+</div>
+
 
 ## System Architecture
 
