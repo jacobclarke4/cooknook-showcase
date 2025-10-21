@@ -1,8 +1,8 @@
 
 <div>
   <a href='https://mycooknook.com/'>
-  <img src ='https://mycooknook.com/CooknookEmailHeader.png' width='300'> </img>
-    <a>
+    <img src ='https://mycooknook.com/CooknookEmailHeader.png' width='300'> </img>
+  <a>
 </div>
 <br></br>
 
@@ -14,10 +14,12 @@ Founder & Developer of Cooknook
 ## Overview
 
 Cooknook allows users to:
-- Create and save custom recipes.
-- 
-- Share recipes easily via URL or native share actions.
-- Manage premium subscriptions via Stripe.
+- Create and save personalized (private or public) recipes.
+- View version history including changelogs for recipes.
+- Build custom cookbooks using your recipes and recipes from other users.
+- “Fork” a recipe, creating a personal copy that you can edit, tweak, or add your own twist to — without changing the original.
+- Ask AI Chef (OpenAI) for ingredient substitutions to easily adapt any recipe to your preferences, dietary needs, or what you already have in your kitchen.
+- Subscribe via Stripe to get access to premium features such as: AI Chef and Cookbooks
 
 ---
 <img src='/ExampleImages/RecipeExample.png'></img>
