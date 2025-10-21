@@ -20,7 +20,7 @@ Cooknook allows users to:
 - Manage premium subscriptions via Stripe.
 
 ---
-![Recipe Example](ExampleImages/RecipeExample.png)
+<img src='/ExampleImages/RecipeExample.png'></img>
 
 ## System Architecture
 
