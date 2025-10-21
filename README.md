@@ -15,7 +15,7 @@ Founder & Developer of Cooknook
 
 Cooknook allows users to:
 - Create and save custom recipes.
-- View and edit others’ recipes collaboratively.
+- 
 - Share recipes easily via URL or native share actions.
 - Manage premium subscriptions via Stripe.
 
