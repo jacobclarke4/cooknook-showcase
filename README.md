@@ -8,7 +8,9 @@
 
 **Jacob Clarke**  
 Founder & Developer of Cooknook
+<br></br>
 jacobclarke.swe@gmail.com
+<br></br>
 [LinkedIn](https://www.linkedin.com/in/jacob-clarke-developer/) | [Github](https://www.github.com/jacobclarke4/)
 
 ## TL;DR
