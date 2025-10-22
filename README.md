@@ -1,14 +1,15 @@
 
 <div>
   <a href='https://mycooknook.com/'>
-    <img src ='https://mycooknook.com/CooknookEmailHeader.png' width='300'> </img>
-  <a>
+    <img src ='https://mycooknook.com/CooknookEmailHeader.png' width='300' alt='Cooknook Header'> </img>
+  </a>a>
 </div>
 <br></br>
 
 **Jacob Clarke**  
-Founder & Developer of Cooknook  
-[LinkedIn](https://www.linkedin.com/in/jacob-clarke-developer/) | [Github](https://www.github.com/jacobclarke4/)
+Founder & Developer of Cooknook
+jacobclarke.swe@gmail.com
+[LinkedIn](https://www.linkedin.com/in/jacob-clarke-developer/) | [Github](https://www.github.com/jacobclarke4/) 
 
 
 ## Overview
@@ -23,22 +24,22 @@ Cooknook allows users to:
 
 ---
 Create Beautiful Recipes with ease!
-<img src='/example-images/RecipeExample.png'></img>
+<img src='/example-images/RecipeExample.png' alt='Recipe Example'></img>
 Version history timeline to view all previous iterations of a recipe!
-<img src='/example-images/VersionHistoryExample.png'></img>
+<img src='/example-images/VersionHistoryExample.png' alt='Version History Example'></img>
 Organize recipes into well-organized Cookbooks!
 <div align='center'>
-  <img src='/example-images/CookbookExample.gif'></img>
+  <img src='/example-images/CookbookExample.gif' alt='Cookbook Example'></img>
 </div>
 Get Ingredint Substitution based user inputted needs or ingredient availability!
-<img src='/example-images/IngredientSubstitutionExample.png'></img>
+<img src='/example-images/IngredientSubstitutionExample.png' alt='Ingredient Substitution Example'></img>
 
 ## Database Design Structure
-<img src='/database-structure/database-structure.png'></img>
+<img src='/database-structure/database-structure.png' alt='Database Structure'></img>
 
 
 ## System Architecture
-<img src='/system-design/system-design.png'></img>
+<img src='/system-design/system-design.png' alt='System Design'></img>
 
 | Category | Technology |
 |-----------|-------------|
