@@ -2,19 +2,23 @@
 <div>
   <a href='https://mycooknook.com/'>
     <img src ='https://mycooknook.com/CooknookEmailHeader.png' width='300' alt='Cooknook Header'> </img>
-  </a>a>
+  </a>
 </div>
 <br></br>
 
 **Jacob Clarke**  
 Founder & Developer of Cooknook
 jacobclarke.swe@gmail.com
-[LinkedIn](https://www.linkedin.com/in/jacob-clarke-developer/) | [Github](https://www.github.com/jacobclarke4/) 
+[LinkedIn](https://www.linkedin.com/in/jacob-clarke-developer/) | [Github](https://www.github.com/jacobclarke4/)
 
+## TL;DR
+- Production-grade cooking platform for creating, organizing, and sharing recipes. Built with Next.js (SSR), Firebase (Auth, Firestore), Firebase Cloud Functions, and AWS hosting. See architecture below.
+- This repository is a curated showcase the production codebase is private.
 
 ## Overview
+CookNook helps home cooks create and save personalized recipes, track version history, build cookbooks, fork and collaborate on recipes, and use AI-powered ingredient substitution. Premium features (AI Chef, Cookbooks) are available via Stripe subscriptions.
 
-Cooknook allows users to:
+## Key features
 - Create and save personalized (private or public) recipes.
 - View version history including changelogs for recipes.
 - Build custom cookbooks using personal recipes and recipes from other users.
