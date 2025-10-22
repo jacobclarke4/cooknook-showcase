@@ -23,20 +23,20 @@ Cooknook allows users to:
 
 ---
 Create Beautiful Recipes with ease!
-<img src='/ExampleImages/RecipeExample.png'></img>
+<img src='/example-images/RecipeExample.png'></img>
 Version history timeline to view all previous iterations of a recipe!
-<img src='/ExampleImages/VersionHistoryExample.png'></img>
+<img src='/example-images/VersionHistoryExample.png'></img>
 Organize recipes into well-organized Cookbooks!
 <div align='center'>
-  <img src='/ExampleImages/CookbookExample.gif'></img>
+  <img src='/example-images/CookbookExample.gif'></img>
 </div>
 Get Ingredint Substitution based user inputted needs or ingredient availability!
-<img src='/ExampleImages/IngredientSubstitutionExample.png'></img>
+<img src='/example-images/IngredientSubstitutionExample.png'></img>
 
 
 ## System Architecture
 
-<img src='/SystemDesignDiagram.png'></img>
+<img src='/system-design/system-design.png'></img>
 
 | Category | Technology |
 |-----------|-------------|
