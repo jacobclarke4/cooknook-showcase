@@ -33,6 +33,9 @@ Organize recipes into well-organized Cookbooks!
 Get Ingredint Substitution based user inputted needs or ingredient availability!
 <img src='/example-images/IngredientSubstitutionExample.png'></img>
 
+## Database Design Structure
+
+<img src='/database-structure/database-structure.png'></img>
 
 ## System Architecture
 
