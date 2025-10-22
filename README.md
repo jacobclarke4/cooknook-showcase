@@ -31,7 +31,7 @@ Organize recipes into well-organized Cookbooks!
 <div align='center'>
   <img src='/example-images/CookbookExample.gif' alt='Cookbook Example'></img>
 </div>
-Get Ingredint Substitution based user inputted needs or ingredient availability!
+Get Ingredient Substitutions based user inputted needs or ingredient availability!
 <img src='/example-images/IngredientSubstitutionExample.png' alt='Ingredient Substitution Example'></img>
 
 ## Database Design Structure
