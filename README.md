@@ -36,7 +36,7 @@ Get Ingredint Substitution based user inputted needs or ingredient availability!
 
 ## System Architecture
 
-[System Diagram](./docs/system-design-diagram.png)
+<img src='/SystemDesignDiagram.png'></img>
 
 | Category | Technology |
 |-----------|-------------|
