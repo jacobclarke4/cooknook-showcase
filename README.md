@@ -13,7 +13,7 @@ jacobclarke.swe@gmail.com
 
 ## TL;DR
 - Production-grade cooking platform for creating, organizing, and sharing recipes. Built with Next.js (SSR), Firebase (Auth, Firestore), Firebase Cloud Functions, and AWS hosting. See architecture below.
-- This repository is a curated showcase the production codebase is private.
+- This repository is a curated showcase, the production codebase is private.
 
 ## Overview
 CookNook helps home cooks create and save personalized recipes, track version history, build cookbooks, fork and collaborate on recipes, and use AI-powered ingredient substitution. Premium features (AI Chef, Cookbooks) are available via Stripe subscriptions.
@@ -35,7 +35,7 @@ Organize recipes into well-organized Cookbooks!
 <div align='center'>
   <img src='/example-images/CookbookExample.gif' alt='Cookbook Example'></img>
 </div>
-Get Ingredient Substitutions based user inputted needs or ingredient availability!
+Get Ingredient Substitutions based on user inputted needs or ingredient availability!
 <img src='/example-images/IngredientSubstitutionExample.png' alt='Ingredient Substitution Example'></img>
 
 ## Database Design Structure
